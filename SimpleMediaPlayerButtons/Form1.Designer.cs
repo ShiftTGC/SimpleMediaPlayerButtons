@@ -80,7 +80,7 @@ namespace SimpleMediaPlayerButtons
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(388, 193);
+            this.ClientSize = new System.Drawing.Size(385, 185);
             this.Controls.Add(this.TrackStop);
             this.Controls.Add(this.TrackNext);
             this.Controls.Add(this.TrackPlayPause);
@@ -88,7 +88,7 @@ namespace SimpleMediaPlayerButtons
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "SimpleMediaPlayerButtons by ShiftTGC";
             this.ResumeLayout(false);
 
         }
